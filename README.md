@@ -1,7 +1,3 @@
-Here’s an updated version of the README file, including the instructions to use **Ganache** for testing the Zero Knowledge Proof DApp locally:
-
----
-
 # Zero Knowledge Proof DApp
 
 This project demonstrates a **Zero Knowledge Proof (ZKP)** decentralized application (DApp) built on the Ethereum blockchain. The application allows users to securely store and verify secrets without revealing them, ensuring privacy and security. Using cryptographic hashing and ZKP principles, users can prove their knowledge of a secret without disclosing the actual secret. This project integrates **MetaMask** for authentication and uses **web3.js** to interact with the Ethereum blockchain from the browser.
@@ -110,7 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or issues, feel free to open an issue on the GitHub repository or reach out via email.
-
----
-
-This updated README now includes instructions for using **Ganache** for local testing. Let me know if you'd like further adjustments!
